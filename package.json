@@ -1,0 +1,14 @@
+{
+  "name": "node_challenges",
+  "version": "1.0.0",
+  "description": "",
+  "main": "day1part1.js",
+  "scripts": {
+    "start": "nodemon day1part1.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
